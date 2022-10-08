@@ -1,0 +1,76 @@
+
+[
+    {
+        "image" : "../IMG/Giyu.jpg", 
+        "name" : "Giya Button Up",
+        "price" : "$30",
+        "description" : "Based of of Giyu Tomioka's Haori. <br> 100% Polyester Rayon. <br> Hawaiian Style. True to size."
+    },
+    {
+        "image" : "/IMG/ChopperBucketHat.jpg", 
+        "name" : "Chopper Bucket Hat",
+        "price" : "$24",
+        "description" : "Embroidered and felt X.<br> Soft Fleece material.<br> The antlers are floppy and won't stay stiff on the hat."
+  },
+  {
+    "image" : "/IMG/Howls.jpg", 
+    "name" : "Howls Moving Castle Cardigan",
+    "price" : "$50",
+    "description" : "Material: 35% Viscose, 20% Cotton, 25% Polyester, 20% Nylon.<br> XS-XXXL"
+},
+{
+    "image" : "/IMG/SasukeCurseMark.jpg", 
+    "name" : "Sasuke Curse Mark Sweater",
+    "price" : "$45",
+    "description" : "Screen printed pattern, embroidered curse seal. <br>Lavender base color. <br>Oversized fit with drop shoulders."
+},
+{
+    "image" : "/IMG/DrankenTokyoRevengers.jpg", 
+    "name" : "Draken Tokyo Revengers Sweater Vest",
+    "price" : "$35",
+    "description" : "Material: 35% Viscose, 20% Cotton, 25% Polyester, 20% Nylon. <br> XS-XXXL"
+},
+{
+    "image" : "/IMG/SailorMoon.jpg", 
+    "name" : "Sleepy Sailor Moon Sweater",
+    "price" : "$45",
+    "description" : "We call this Triple S sweater cause it's Sweet, Super Cute, and well, Sailor."
+},
+{
+    "image" : "/IMG/Deaththekid.jpg", 
+    "name" : "Death The Kid Beanie",
+    "price" : "$21",
+    "description" : "Soul Eater, Death the Kid beanie."
+},
+{
+    "image" : "/IMG/SoulEaterBeanie.jpg", 
+    "name" : "Soul Eater Beanie",
+    "price" : "$21",
+    "description" : "Soul Eater Beanie, from Anime Soul Eater."
+},
+{
+    "image" : "/IMG/Sukuna.jpg", 
+    "name" : "Sukuna - Jujutsu Kaisen Hoodie",
+    "price" : "$50",
+    "description" : "Screen-printed graphics.<br> Black 330 GSM fleece Sweater.<br> Fits oversized and boxy."
+},
+{
+    "image" : "/IMG/TengenUzuiButtonUp.jpg", 
+    "name" : "Tengen Uzui Button Up",
+    "price" : "$30",
+    "description" : "The Flashiest button up you could ever own!<br> Hawaiian Style Shirt."
+},
+{
+    "image" : "/IMG/FireForceHoodie.jpg", 
+    "name" : "Fire Force Hoodie",
+    "price" : "$45",
+    "description" : "Cut and sewn panels.<br> Ribbed cuffs and collar.<br> Black 330 GSM fleece sweater. <br>Fits boxy and oversized."
+},
+{
+    "image" : "/IMG/ZeroTwoHat.jpg", 
+    "name" : "Zero Two Hat",
+    "price" : "$24",
+    "description" : "This hat is just Darling.<br> Darling in the Franxx Hat."
+}
+
+]
