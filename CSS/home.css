@@ -792,7 +792,7 @@ video {
 .footer-basic {
     padding: 0px 0;
     background-color: transparent;
-    color: #000000;
+    color: #ffffff;
     position: sticky;
     bottom: 0;
     left: 0;
@@ -848,7 +848,7 @@ video {
     display: inline-block;
     text-align: right;
     margin: 0 8px;
-    color: black;
+    color: rgb(255, 255, 255);
     opacity: 0.75;
     vertical-align: middle;
 
@@ -865,6 +865,6 @@ video {
     margin-top: 15px;
     text-align: center;
     font-size: 13px;
-    color: rgb(0, 0, 0);
+    color: white;
     margin-bottom: 0;
 }
