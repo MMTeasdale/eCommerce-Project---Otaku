@@ -61,7 +61,7 @@
 }
 
 .cd-hero__nav a:hover {
-    background-color: rgba(0, 1, 1, 0.5);
+    background-color: transparent;
 }
 
 .cd-hero__nav li:first-of-type a::before {
@@ -132,7 +132,7 @@
     z-index: 2;
     text-align: center;
     height: 55px;
-    background-color: rgba(0, 1, 1, 0.5);
+    background-color: transparent;
 }
 
 .cd-hero__nav nav,
@@ -154,7 +154,7 @@
     left: 0;
     width: 100%;
     height: 50px;
-    background-color: #000000;
+    background-color: transparent;
 }
 
 @media only screen and (min-width: 768px) {
